@@ -2,7 +2,6 @@
   margin: 0 auto;
   width: 75%;
   text-align: center;
-  border: 1px solid black;
 }
 
 .postUnorderList {
@@ -19,7 +18,7 @@
   margin-right: 160px;
   margin-bottom: 0.3rem;
   border-radius: 0.5rem;
-  width: 75rem;
+  width: 75%;
   text-align: center;
 }
 
@@ -33,7 +32,7 @@
   margin-right: 160px;
   margin-bottom: 0.3rem;
   border-radius: 0.5rem;
-  width: 66rem;
+  width: 66%;
   text-align: center;
 }
 

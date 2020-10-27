@@ -51,10 +51,9 @@
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   padding-right: 1rem;
-  margin-right: 160px;
-  margin-bottom: 0.3rem;
+  margin: 0 auto;
   border-radius: 0.5rem;
-  width: 74rem;
+  width: 95%;
   text-align: center;
 }
 
@@ -65,10 +64,9 @@
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   padding-right: 1rem;
-  margin-right: 160px;
-  margin-bottom: 0.3rem;
+  margin: 0 auto;
   border-radius: 0.5rem;
-  width: 65rem;
+  width: 95%;
   text-align: center;
 }
 
