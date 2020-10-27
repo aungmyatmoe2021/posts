@@ -1,0 +1,83 @@
+.listTitle {
+  background-color: aqua;
+  padding: 0.5rem;
+  margin-bottom: 0.2rem;
+  border-radius: 0.5rem;
+  margin-left: 1rem;
+  margin-right: 10rem;
+  color: black;
+  font-weight: 500;
+}
+
+.listBody {
+  background-color: aquamarine;
+  padding: 0.5rem;
+  margin-bottom: 0.2rem;
+  border-radius: 0.5rem;
+  margin-left: 10rem;
+  margin-right: 10rem;
+  color: black;
+  font-weight: 300;
+}
+
+.divButton {
+  margin-bottom: 1rem;
+}
+
+.btnEdit {
+  background-color: lightgreen;
+  border: 0px;
+  border-radius: 5px;
+  width: 100px;
+  height: 30px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.btnDelete {
+  background-color: red;
+  border: 0px;
+  border-radius: 50%;
+  margin-left: 10px;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
+
+.txtEditTitle {
+  background-color: gray;
+  display: block;
+  margin: 0 auto;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-right: 1rem;
+  margin-right: 160px;
+  margin-bottom: 0.3rem;
+  border-radius: 0.5rem;
+  width: 74rem;
+  text-align: center;
+}
+
+.txtEditBody {
+  background-color: gray;
+  display: block;
+  margin: 0 auto;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-right: 1rem;
+  margin-right: 160px;
+  margin-bottom: 0.3rem;
+  border-radius: 0.5rem;
+  width: 65rem;
+  text-align: center;
+}
+
+.btnEditOne {
+  background-color: red;
+  border: 0px;
+  border-radius: 5px;
+  width: 100px;
+  height: 30px;
+  cursor: pointer;
+  margin-left: 10px;
+}

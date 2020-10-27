@@ -1,0 +1,47 @@
+.bodyTest {
+  margin: 0 auto;
+  width: 75%;
+  text-align: center;
+  border: 1px solid black;
+}
+
+.postUnorderList {
+  list-style: none;
+}
+
+.textTitle {
+  display: block;
+  margin: 0 auto;
+  background-color: aqua;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-right: 1rem;
+  margin-right: 160px;
+  margin-bottom: 0.3rem;
+  border-radius: 0.5rem;
+  width: 75rem;
+  text-align: center;
+}
+
+.textBody {
+  display: block;
+  margin: 0 auto;
+  background-color: aquamarine;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-right: 1rem;
+  margin-right: 160px;
+  margin-bottom: 0.3rem;
+  border-radius: 0.5rem;
+  width: 66rem;
+  text-align: center;
+}
+
+.buttonAddToList {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.buttonAddToList:hover {
+  cursor: pointer;
+}
